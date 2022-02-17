@@ -6,7 +6,7 @@ and computers! This website is a portfolio by and about Dan Kim. Although this i
 as the course continues. 
 
 Significant issue with deploying a live website that took much more than possible. Deleted and re"pushed" from git to github. Finally deployed after multple
-attempts, unfortunately, the title name came out to be "Portfolio-final" instead of something more unique.
+attempts, unfortunately, the title name came out to be "Portfolio-final" instead of something more unique; also explains the lack of multiple commits.
 *For future reference, it finally deployed after manually installing files and putting the files in right order. Not sure which fixed the bug.
 
 
