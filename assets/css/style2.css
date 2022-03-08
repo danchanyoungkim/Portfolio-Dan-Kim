@@ -84,8 +84,7 @@ p {
 
 .app1 {
   width:80%;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 50px auto
 }
 
 .app1:hover {
@@ -106,6 +105,10 @@ p {
 
 .container--narrow {
     max-width: 35rem;
+}
+
+.github-link {
+  text-align: center;
 }
 
 .text-center {
