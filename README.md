@@ -1,5 +1,5 @@
 # Portfolio
-Live link: https://danchanyoungkim.github.io/Portfolio-final/
+Live link: https://danchanyoungkim.github.io/Portfolio-Dan-Kim/
 
 Description: With the deployment of html and advanced css techniques, this website provides accessibility across multiple platforms including phones, tablets,
 and computers! This website is a portfolio by and about Dan Kim. Although this is currently the product of this current assignment, more changes are to come
