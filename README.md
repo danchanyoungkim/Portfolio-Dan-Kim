@@ -1,4 +1,4 @@
-# Portfolio-final
+# Portfolio
 Live link: https://danchanyoungkim.github.io/Portfolio-final/
 
 Description: With the deployment of html and advanced css techniques, this website provides accessibility across multiple platforms including phones, tablets,
